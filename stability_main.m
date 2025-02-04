@@ -1,3 +1,14 @@
+disp('####################################################################### ');
+disp('##                                                                   ## ');
+disp('##                          Chandan Kr                               ## ');
+disp('##                   The Ohio State University    	                 ## ');
+disp('##     -------------------------------------------------------       ## ');
+disp('##                                                                   ## ');
+disp('##            Orr Sommerfeld stability - Temporal stability          ## ');
+disp('##                Tollmien Schlichting wave - Blasius BL             ## ');
+disp('##     -------------------------------------------------------       ## ');
+disp('####################################################################### ');
+
 clc; clear; close all;
 N = 201;
 [u,ddu,y,dy] = blasiusBL(N);
