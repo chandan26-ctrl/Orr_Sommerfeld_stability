@@ -1,7 +1,7 @@
 disp('####################################################################### ');
 disp('##                                                                   ## ');
 disp('##                          Chandan Kr                               ## ');
-disp('##                   The Ohio State University    	                 ## ');
+disp('##                   The Ohio State University    	               ## ');
 disp('##     -------------------------------------------------------       ## ');
 disp('##                                                                   ## ');
 disp('##            Orr Sommerfeld stability - Temporal stability          ## ');
